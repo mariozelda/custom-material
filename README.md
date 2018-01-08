@@ -187,4 +187,3 @@ Once you have all the necessary assets installed, add `ngMaterial` as a dependen
 angular.module('myApp', ['ngMaterial']);
 ```
 
-# custom-material
